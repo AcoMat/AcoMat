@@ -79,17 +79,3 @@ Me interesa crear software mantenible, con código limpio y foco en impacto real
 | Herramientas | Git, Docker, Postman, Figma |
 
 ---
-
-### Estadísticas
-
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=AcoMat&show_icons=true&theme=tokyonight&hide_border=true"
-  />
-
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AcoMat&layout=compact&theme=tokyonight&hide_border=true"
-  />
-</p>
